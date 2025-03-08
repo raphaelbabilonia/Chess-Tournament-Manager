@@ -24,12 +24,12 @@ This project adheres to a Code of Conduct that all contributors are expected to 
 1. Fork the repository on GitHub
 2. Clone your fork locally:
    ```
-   git clone https://github.com/your-username/chess-tournament-manager.git
-   cd chess-tournament-manager
+   git clone https://github.com/raphaelbabilonia/Chess-Tournament-Manager.git
+   cd Chess-Tournament-Manager
    ```
 3. Set up the development environment:
    ```
-   pip install -r requirements-dev.txt
+   pip install -r requirements.txt
    ```
 4. Create a branch for your work:
    ```
@@ -93,7 +93,8 @@ flake8
 -  Write tests for all new features and bug fixes
 -  Maintain or improve test coverage
 -  Tests should be independent and repeatable
--  Follow the existing test structure
+-  Follow the existing test structure in the `tests` directory
+-  Include both unit tests and integration tests where appropriate
 
 Run tests with:
 
@@ -126,18 +127,23 @@ When reporting issues, please include:
 -  Expected behavior
 -  Actual behavior
 -  Screenshots if applicable
--  Environment information (OS, Python version, etc.)
+-  Environment information:
+   -  Operating System
+   -  Python version (use `python --version`)
+   -  Package versions (from requirements.txt)
+   -  Any relevant configuration settings
 
 ## Pull Requests
 
 When submitting a pull request:
 
-1. Reference any related issues
+1. Reference any related issues using GitHub's #issue-number syntax
 2. Include a clear description of the changes
 3. Update relevant documentation
 4. Add or update tests
 5. Ensure all tests pass
 6. Follow the coding standards
+7. Update the CHANGELOG.md file if applicable
 
 ## Review Process
 
@@ -148,10 +154,31 @@ All submissions require review before being merged:
 3. Address review feedback promptly
 4. Once approved, a maintainer will merge your PR
 
+## Branch Naming Convention
+
+Please follow these branch naming conventions:
+
+-  `feature/` - for new features
+-  `bugfix/` - for bug fixes
+-  `docs/` - for documentation updates
+-  `test/` - for test additions or updates
+-  `refactor/` - for code refactoring
+
+Example: `feature/add-swiss-pairing-algorithm`
+
+## Commit Message Guidelines
+
+Follow these guidelines for commit messages:
+
+-  Use the present tense ("Add feature" not "Added feature")
+-  Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
+-  Limit the first line to 72 characters or less
+-  Reference issues and pull requests liberally after the first line
+
 ## License
 
 By contributing to this project, you agree that your contributions will be licensed under the project's [GNU General Public License v3.0](LICENSE).
 
 ---
 
-Thank you for contributing to the Chess Tournament Manager project!
+Thank you for contributing to the Chess Tournament Manager project! If you have any questions, feel free to open an issue for discussion.
