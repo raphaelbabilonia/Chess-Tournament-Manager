@@ -1,0 +1,19 @@
+{
+  "tournament_id": "d658f5fc-23a7-42e0-a7d2-5f5f77f11736",
+  "name": "Test Tournament",
+  "tournament_type": "Swiss",
+  "num_rounds": 5,
+  "location": "Test Location",
+  "start_date": "2025-03-08T15:27:30.775427",
+  "end_date": null,
+  "description": "",
+  "created_at": "2025-03-08T15:27:30.775427",
+  "updated_at": "2025-03-08T15:27:30.815260",
+  "players": [
+    "9818debd-e3e7-4b6d-93f5-f8556d96005f",
+    "45ac3647-a1de-4664-b3a0-c89eb4e3a7d1"
+  ],
+  "rounds": [],
+  "current_round": 0,
+  "is_finished": false
+}

@@ -1,0 +1,21 @@
+{
+  "tournament_id": "8806c794-b2a8-4862-8872-121ce76af720",
+  "name": "First Tournament",
+  "tournament_type": "Swiss",
+  "num_rounds": 5,
+  "location": "Location 1",
+  "start_date": "2023-11-01",
+  "end_date": "2023-11-10",
+  "description": "First test tournament",
+  "created_at": "2025-03-08T15:26:45.739010",
+  "updated_at": "2025-03-08T15:26:45.839032",
+  "players": [
+    "53da3803-78e1-412f-ba84-5dfa51c8c58b",
+    "802ac66b-18fd-4073-bf20-00718292da15",
+    "824dd06e-a5f3-443a-a0b9-6c9671f8bc5a",
+    "c234d1f9-1967-48a9-819a-8f930c751379"
+  ],
+  "rounds": [],
+  "current_round": 0,
+  "is_finished": false
+}

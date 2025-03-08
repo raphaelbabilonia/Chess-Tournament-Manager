@@ -1,0 +1,21 @@
+{
+  "tournament_id": "ef299267-8cf7-4f69-84fa-37d57b447b75",
+  "name": "Second Tournament",
+  "tournament_type": "Round Robin",
+  "num_rounds": 7,
+  "location": "Location 2",
+  "start_date": "2023-12-01",
+  "end_date": "2023-12-10",
+  "description": "Second test tournament",
+  "created_at": "2025-03-08T15:26:45.740010",
+  "updated_at": "2025-03-08T15:26:45.943055",
+  "players": [
+    "df6e22ae-0bbb-48c7-812f-f2d2fa33fe62",
+    "56737a52-2017-4cd3-bfe7-895ea1c3f65e",
+    "58fa896e-8cc3-46de-ad9b-2d11b93f557c",
+    "aba806c9-8af9-478a-8463-479d7ba4835c"
+  ],
+  "rounds": [],
+  "current_round": 0,
+  "is_finished": false
+}

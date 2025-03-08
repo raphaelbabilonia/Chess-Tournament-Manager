@@ -1,0 +1,14 @@
+{
+  "player_id": "92600769-ac71-4388-acee-d0a1cbb7d605",
+  "first_name": "Magnus",
+  "last_name": "Carlsen",
+  "rating": 2850,
+  "federation": "FIDE",
+  "email": "",
+  "phone": "",
+  "created_at": "2025-03-08T15:26:44.924453",
+  "updated_at": "2025-03-08T15:26:44.962948",
+  "tournaments": [
+    "2e61a21b-d4ec-411b-ad55-4138e5c24f77"
+  ]
+}

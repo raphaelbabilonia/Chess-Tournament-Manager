@@ -1,0 +1,12 @@
+{
+  "player_id": "6a0d30b6-9cb8-4efc-9823-7d0e1fc8a0e3",
+  "first_name": "Magnus",
+  "last_name": "Carlsen",
+  "rating": 2850,
+  "federation": "FIDE",
+  "email": "magnus@example.com",
+  "phone": "",
+  "created_at": "2025-03-08T15:26:44.617234",
+  "updated_at": "2025-03-08T15:26:44.618232",
+  "tournaments": []
+}

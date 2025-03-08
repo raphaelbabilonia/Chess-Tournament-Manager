@@ -1,0 +1,14 @@
+{
+  "player_id": "aba806c9-8af9-478a-8463-479d7ba4835c",
+  "first_name": "Player8",
+  "last_name": "Last8",
+  "rating": 2400,
+  "federation": "TEST",
+  "email": "",
+  "phone": "",
+  "created_at": "2025-03-08T15:26:45.737009",
+  "updated_at": "2025-03-08T15:26:45.942055",
+  "tournaments": [
+    "ef299267-8cf7-4f69-84fa-37d57b447b75"
+  ]
+}

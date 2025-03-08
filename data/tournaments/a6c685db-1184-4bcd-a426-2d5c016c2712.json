@@ -1,0 +1,18 @@
+{
+  "tournament_id": "a6c685db-1184-4bcd-a426-2d5c016c2712",
+  "name": "Test Tournament",
+  "tournament_type": "Swiss",
+  "num_rounds": 5,
+  "location": "Test Location",
+  "start_date": "2023-12-01",
+  "end_date": "2023-12-10",
+  "description": "Test tournament for unit tests",
+  "created_at": "2025-03-08T15:26:44.746913",
+  "updated_at": "2025-03-08T15:26:44.777413",
+  "players": [
+    "5e4a1e7f-f0ca-4799-bdb5-26301a0d4b4e"
+  ],
+  "rounds": [],
+  "current_round": 0,
+  "is_finished": false
+}

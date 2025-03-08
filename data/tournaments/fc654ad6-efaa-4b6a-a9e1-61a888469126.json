@@ -1,0 +1,20 @@
+{
+  "tournament_id": "fc654ad6-efaa-4b6a-a9e1-61a888469126",
+  "name": "World Chess Championship",
+  "tournament_type": "Swiss",
+  "num_rounds": 14,
+  "location": "London",
+  "start_date": "2023-11-01",
+  "end_date": "2023-11-30",
+  "description": "The ultimate chess championship",
+  "created_at": "2025-03-08T15:27:30.735229",
+  "updated_at": "2025-03-08T15:27:30.737760",
+  "players": [
+    "12345",
+    "23456",
+    "34567"
+  ],
+  "rounds": [],
+  "current_round": 0,
+  "is_finished": false
+}

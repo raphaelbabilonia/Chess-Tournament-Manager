@@ -1,0 +1,12 @@
+{
+  "player_id": "a558b450-54fa-4c65-941b-10b45d710a6a",
+  "first_name": "Fabiano",
+  "last_name": "Caruana",
+  "rating": 2800,
+  "federation": "USCF",
+  "email": "fabiano@example.com",
+  "phone": "",
+  "created_at": "2025-03-08T15:26:44.623669",
+  "updated_at": "2025-03-08T15:26:44.623669",
+  "tournaments": []
+}

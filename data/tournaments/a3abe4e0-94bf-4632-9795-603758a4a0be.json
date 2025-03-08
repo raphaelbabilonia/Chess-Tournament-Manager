@@ -1,0 +1,57 @@
+{
+  "tournament_id": "a3abe4e0-94bf-4632-9795-603758a4a0be",
+  "name": "Integration Test Tournament",
+  "tournament_type": "Swiss",
+  "num_rounds": 3,
+  "location": "Test Location",
+  "start_date": "2023-12-01",
+  "end_date": "2023-12-10",
+  "description": "Tournament for integration testing",
+  "created_at": "2025-03-08T15:26:45.084259",
+  "updated_at": "2025-03-08T15:26:45.446583",
+  "players": [
+    "9ac9378d-a303-4045-9c19-d1cde24b8239",
+    "7e9a29b4-77f9-4182-b139-e9e0023aec1d",
+    "2dcda61a-7ab0-40c6-8c43-af8e03a783f6",
+    "ea9db3be-fdc6-473d-b27f-bde53b948ae6",
+    "d779cdba-7666-43ec-9cbf-9cd5e80dbee6",
+    "95e7fcd8-7d56-4a24-9334-04429e8b880b",
+    "4b4a942b-0c68-4f59-9b2f-8c2880b0bf53",
+    "d151e70f-324f-49c9-856d-1be2f3520dec"
+  ],
+  "rounds": [
+    {
+      "number": 2,
+      "pairings": [
+        {
+          "white_id": "7e9a29b4-77f9-4182-b139-e9e0023aec1d",
+          "black_id": "9ac9378d-a303-4045-9c19-d1cde24b8239",
+          "board_number": 1,
+          "result": "*"
+        },
+        {
+          "white_id": "2dcda61a-7ab0-40c6-8c43-af8e03a783f6",
+          "black_id": "ea9db3be-fdc6-473d-b27f-bde53b948ae6",
+          "board_number": 2,
+          "result": "*"
+        },
+        {
+          "white_id": "d779cdba-7666-43ec-9cbf-9cd5e80dbee6",
+          "black_id": "95e7fcd8-7d56-4a24-9334-04429e8b880b",
+          "board_number": 3,
+          "result": "*"
+        },
+        {
+          "white_id": "d151e70f-324f-49c9-856d-1be2f3520dec",
+          "black_id": "4b4a942b-0c68-4f59-9b2f-8c2880b0bf53",
+          "board_number": 4,
+          "result": "*"
+        }
+      ],
+      "start_time": "2025-03-08T15:26:45.351148",
+      "end_time": null
+    }
+  ],
+  "current_round": 2,
+  "is_finished": false
+}

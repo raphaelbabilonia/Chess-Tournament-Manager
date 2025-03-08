@@ -1,0 +1,14 @@
+{
+  "player_id": "9ac9378d-a303-4045-9c19-d1cde24b8239",
+  "first_name": "Player1",
+  "last_name": "Last1",
+  "rating": 2050,
+  "federation": "TEST",
+  "email": "",
+  "phone": "",
+  "created_at": "2025-03-08T15:26:45.073390",
+  "updated_at": "2025-03-08T15:26:45.117500",
+  "tournaments": [
+    "a3abe4e0-94bf-4632-9795-603758a4a0be"
+  ]
+}
